@@ -28,9 +28,12 @@ This project has two interfaces namely admin and user.
 
 **Homepage:**
 Users can see new events for registration.
+
 **Login page:**
 Users and Admin will submit there information to create account.
-**Event list page: **
+
+**Event list page:**
 User can see which events they have participated.
+
 **Profile page:**
 Admin can set profile picture and add details about him.
